@@ -33,6 +33,7 @@
 		045994432433430400504060 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		045994462433430400504060 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = LaunchScreen.storyboard; sourceTree = "<group>"; };
 		045994482433430400504060 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Main.storyboard; sourceTree = "<group>"; };
+		049972142434344900FB1A4C /* PYShadowPath.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = PYShadowPath.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -68,6 +69,7 @@
 			children = (
 				0459943F24333FC400504060 /* UIView+PYShadowPath.h */,
 				0459944024333FC400504060 /* UIView+PYShadowPath.m */,
+				049972142434344900FB1A4C /* PYShadowPath.h */,
 			);
 			path = PYShadowPath;
 			sourceTree = "<group>";
