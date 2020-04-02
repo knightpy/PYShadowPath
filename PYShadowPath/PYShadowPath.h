@@ -10,4 +10,5 @@
 #define PYShadowPath_h
 
 #import "UIView+PYShadowPath.h"
+#import "PalAttributeHeight.h"
 #endif /* PYShadowPath_h */
